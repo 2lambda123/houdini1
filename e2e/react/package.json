@@ -36,7 +36,7 @@
 		"e2e-api": "workspace:^",
 		"hono": "^3.6.0",
 		"typescript": "^4.9.3",
-		"vite": "^4.1.0",
+		"vite": "^4.1.5",
 		"wrangler": "^3.7.0"
 	}
 }
